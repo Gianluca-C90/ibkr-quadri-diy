@@ -1,0 +1,27 @@
+# --- Dati personali / output (NON distribuire) ---
+*.csv
+risposte_*.json
+!risposte.esempio.json
+quadri_output.txt
+quadri_compilati_*.pdf
+FAC_SIMILE_QUADRI.md
+
+# --- Moduli ufficiali Agenzia delle Entrate ---
+# Scaricali da agenziaentrate.gov.it; non vanno redistribuiti nel repo.
+PF1_*.pdf
+PF2_*.pdf
+*_modello_*.pdf
+
+# --- Materiale di terzi / corsi (non redistribuire) ---
+Istruzioni estratte da corso/
+
+# --- Documenti del caso reale / pianificazione interni ---
+docs/
+VERIFICA_FONTI.md
+
+# --- Artefatti di anteprima / calibrazione ---
+*.png
+
+# --- Cache Python ---
+__pycache__/
+*.pyc

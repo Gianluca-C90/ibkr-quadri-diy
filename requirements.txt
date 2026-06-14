@@ -1,0 +1,7 @@
+# genera_quadri.py usa SOLO la libreria standard di Python (nessuna dipendenza).
+# compila_pdf.py (sovrastampa sul modulo PDF) richiede:
+pypdf>=4.0
+reportlab>=4.0
+
+# Opzionale — solo per generare le anteprime PNG / ricalibrare le coordinate:
+# pymupdf>=1.24

@@ -1,0 +1,14 @@
+{
+  "_commento": "TEMPLATE. Copia in 'risposte_TUOCONTO.json' e adatta i valori. I campi che incidono su scelte fiscali vanno validati da un commercialista.",
+  "cf": "RSSMRA80A01H501U",
+  "quota": "100",
+  "cod_stato_broker": "040",
+  "giorni_ivafe": "365",
+  "anno_imposta": "2025",
+  "ivafe_ecc_prec": "0",
+  "ivafe_ecc_util": "0",
+  "ivafe_acconti": "0",
+  "minus_pregresse": "0",
+  "includi_forex_auto": "no",
+  "cod_stato_dividendi": "069"
+}
